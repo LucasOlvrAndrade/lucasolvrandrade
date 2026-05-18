@@ -1,11 +1,11 @@
-# 👨‍💻 Lucas Andrade | Portfólio
+#  Lucas Andrade | Portfólio
 
 Olá! Seja bem-vindo ao meu perfil 🚀  
 Sou estudante de Engenharia de Software com experiência em suporte técnico, apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
 
 ---
 
-# 🚀 Sobre Mim
+#  Sobre Mim
 
 🎓 Estudante de Engenharia de Software  
 💻 Experiência em Suporte Técnico  
@@ -16,7 +16,7 @@ Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura d
 
 ---
 
-# 🛠️ Linguagens e Ferramentas
+#  Linguagens e Ferramentas
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura d
 
 ---
 
-# 🔗 Redes Sociais
+#  Redes Sociais
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura d
 
 ---
 
-# 📚 Atualmente Estudando
+#  Atualmente Estudando
 
 - Engenharia de Software
 - Banco de Dados (MySQL)
@@ -80,22 +80,12 @@ Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura d
 
 ---
 
-# 💼 Experiência
+#  Experiência
 
 Experiência em suporte técnico com atendimento a usuários, instalação de softwares, manutenção preventiva e corretiva de computadores, resolução de problemas em hardware e suporte a sistemas operacionais.
 
 ---
 
-# 🎯 Objetivo
+#  Objetivo
 
 Evoluir profissionalmente na área de tecnologia, ampliar conhecimentos em desenvolvimento de software e banco de dados, além de construir soluções eficientes que gerem impacto positivo.
-
----
-
-# ⚽ Interesses Pessoais
-
-Além da tecnologia, gosto de jogos, futebol e esportes em geral. Também tenho interesse em aprendizado contínuo e novas tecnologias.
-
----
-
-# ⭐ Obrigado por visitar meu perfil!
