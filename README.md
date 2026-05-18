@@ -1,6 +1,5 @@
-#  Lucas Andrade | Portfólio
-
-Olá! Seja bem-vindo ao meu perfil 🚀  
+#  Lucas Andrade
+  
 Sou estudante de Engenharia de Software com experiência em suporte técnico, apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
 
 ---
