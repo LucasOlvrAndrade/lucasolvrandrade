@@ -7,10 +7,10 @@ Sou estudante de Engenharia de Software com experiência em suporte técnico, ap
 
 #  Sobre Mim
 
-🎓 Estudante de Engenharia de Software  
-💻 Experiência em Suporte Técnico  
-🛠️ Conhecimento em hardware, sistemas e manutenção  
-📚 Desenvolvedor em constante evolução
+ Estudante de Engenharia de Software  
+ Experiência em Suporte Técnico  
+ Conhecimento em hardware, sistemas e manutenção  
+ Desenvolvedor em constante evolução
 
 Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura de TI e tecnologia em geral. Busco constantemente ampliar meus conhecimentos através de estudos, projetos pessoais e experiências práticas.
 
@@ -54,13 +54,6 @@ Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura d
 <a href="https://linkedin.com/in/lucas-andrade-93b3273b3">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-
-<a href="mailto:SEUEMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 
 </a>
 
