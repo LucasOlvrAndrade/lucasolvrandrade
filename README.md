@@ -44,7 +44,7 @@ Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura d
 
 <div align="center">
 
-<a href="https://github.com/SEUUSUARIO">
+<a href="https://github.com/LucasOlvrAndrade">
 
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 
@@ -54,6 +54,12 @@ Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura d
 <a href="https://linkedin.com/in/lucas-andrade-93b3273b3">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://instagram.com/lucxsolvr">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 </a>
 
