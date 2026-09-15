@@ -44,12 +44,6 @@ Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura d
 
 </a>
 
-<a href="https://github.com/LucasOlvrAndrade">
-
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-
-</a>
-
 
 <a href="https://linkedin.com/in/lucas-andrade-93b3273b3">
 
