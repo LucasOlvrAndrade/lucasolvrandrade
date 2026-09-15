@@ -40,7 +40,7 @@ Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura d
 
 <a href="https://lucas-andrade.dev">
 
-<img src="https://img.shields.io/badge/Portf%C3%B3lio-C19A3C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="badges/portfolio.svg" alt="Portfólio" height="28"/>
 
 </a>
 
