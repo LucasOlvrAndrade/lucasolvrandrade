@@ -6,7 +6,7 @@
 
 ## Projeto em destaque
 
-**[Sistema de barbearia](https://github.com/LucasOlvrAndrade/sistema-barbearia)**, site de agendamento com escolha de barbeiro e painel de gestão para a barbearia: agenda, faturamento, comissões, clientes e folgas.
+**Sistema de barbearia**, site de agendamento com escolha de barbeiro e painel de gestão para a barbearia: agenda, faturamento, comissões, clientes e folgas.
 Veja funcionando: [barbearia.lucas-andrade.dev](https://barbearia.lucas-andrade.dev)
 
 ## Objetivo
