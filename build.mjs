@@ -17,6 +17,18 @@ const MONO = 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liber
 const ADV = 0.6;
 const w = (text, size, ls = 0) => text.length * size * ADV + Math.max(0, text.length - 1) * ls;
 
+// Avisa quando um texto do config passa da largura util do cartao. A medida usa
+// o avanco de 0.6em, entao e uma estimativa generosa: se passar aqui, passa mesmo.
+let over = 0, checking = true;   // render() roda 2x; so a 1a passada valida
+function fits(text, size, max, onde) {
+  const got = w(text, size);
+  if (checking && got > max) {
+    over++;
+    console.warn(`  ${onde}: "${text.slice(0, 40)}..." ocupa ${got.toFixed(0)}px, cabe ${max}px`);
+  }
+  return got <= max;
+}
+
 const esc = (s) => String(s)
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
   .replace(/"/g, '&quot;');
@@ -134,13 +146,23 @@ function render(themeName) {
         o.push(`<text x="${(px + PILL_PAD).toFixed(1)}" y="${r.y + 17.5}" font-size="${PILL_SIZE}" fill="${t.text}">${esc(item)}</text>`);
         px += pw + PILL_GAP;
       }
-      if (px - PILL_GAP > R) console.warn(`  aviso: linha de pills passa de ${R}px (${(px - PILL_GAP).toFixed(0)}px)`);
+      if (checking && px - PILL_GAP > R) {
+        over++;
+        console.warn(`  ${r.sec.label}: a linha de pills chega a ${(px - PILL_GAP).toFixed(0)}px, cabe ${R}px`);
+      }
     }
     if (r.k === 'entry') {
+      // titulo a esquerda e periodo a direita nao podem se encostar
+      const need = w(r.it.title, ENTRY_SIZE) + w(r.it.period, META_SIZE) + 24;
+      if (checking && need > R - L) {
+        over++;
+        console.warn(`  entry: "${r.it.title}" + "${r.it.period}" precisam de ${need.toFixed(0)}px, cabe ${R - L}px`);
+      }
       o.push(`<text x="${L}" y="${r.y}" font-size="${ENTRY_SIZE}" font-weight="700" fill="${t.text}">${esc(r.it.title)}</text>`);
       o.push(`<text x="${R}" y="${r.y}" font-size="${META_SIZE}" text-anchor="end" fill="${t.muted}">${esc(r.it.period)}</text>`);
     }
     if (r.k === 'desc') {
+      fits(r.it.desc, META_SIZE, R - L, 'desc');
       o.push(`<text x="${L}" y="${r.y}" font-size="${META_SIZE}" fill="${t.muted}">${esc(r.it.desc)}</text>`);
     }
   }
@@ -151,7 +173,13 @@ function render(themeName) {
 
 for (const name of ['dark', 'light']) {
   const svg = render(name);
+  checking = false;
   const out = join(DIR, `banner-${name}.svg`);
   writeFileSync(out, svg + '\n');
   console.log(`banner-${name}.svg  ${(Buffer.byteLength(svg) / 1024).toFixed(1)} KB`);
+}
+
+if (over) {
+  console.warn(`\n${over} texto(s) passam da largura util. Encurte no config.json.`);
+  process.exitCode = 1;
 }
