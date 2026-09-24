@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="468" viewBox="0 0 880 468" role="img" aria-labelledby="t d">
+<title id="t">lucas andrade, estagiário de desenvolvimento, web, java, sql</title>
+<desc id="d">STACKS: java; html; css; javascript; sql; mysql; git; github | EXPERIÊNCIA: Grupo RAM: Estagiário de Desenvolvimento | FORMAÇÃO: CEUB: Engenharia de Software</desc>
+<style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace;dominant-baseline:auto}</style>
+<rect x=".5" y=".5" width="879" height="467" rx="14" fill="#0c0a09" stroke="#2c2724"/>
+<text x="38.0" y="34" font-size="12.5" fill="#a8a29e" xml:space="preserve">LucasOlvrAndrade</text>
+<text x="158.0" y="34" font-size="12.5" fill="#a8a29e" xml:space="preserve"> / </text>
+<text x="180.5" y="34" font-size="12.5" fill="#fafaf9" xml:space="preserve">README</text>
+<text x="225.5" y="34" font-size="12.5" fill="#fb923c" xml:space="preserve">.md</text>
+<rect x="24" y="52" width="832" height="392" rx="10" fill="#17140f" stroke="#2c2724"/>
+<g transform="translate(789.1764705882352 80) scale(0.372549) translate(-28 -13)"><path d="M28 13H55V49H28Z" fill="#fafaf9"/><path d="M28 54H54L39 72L54 84L28 95Z" fill="#fb923c"/><path d="M55 91H100V115H28V102Z" fill="#fafaf9"/></g>
+<text x="64" y="120" font-size="26" font-weight="700" fill="#fafaf9">lucas andrade</text>
+<rect x="270.8" y="100.76" width="13.0" height="21.3" fill="#fb923c"/>
+<text x="64" y="148" font-size="13.5" fill="#a8a29e">estagiário de desenvolvimento, web, java, sql</text>
+<text x="64" y="192" font-size="10.5" letter-spacing="2.4" fill="#a8a29e">STACKS</text>
+<line x1="127.8" y1="188" x2="816" y2="188" stroke="#2c2724"/>
+<rect x="64.0" y="204" width="50.8" height="26" rx="5" fill="#231f1c" stroke="#2c2724"/>
+<text x="75.0" y="221.5" font-size="12" fill="#fafaf9">java</text>
+<rect x="122.8" y="204" width="50.8" height="26" rx="5" fill="#231f1c" stroke="#2c2724"/>
+<text x="133.8" y="221.5" font-size="12" fill="#fafaf9">html</text>
+<rect x="181.6" y="204" width="43.6" height="26" rx="5" fill="#231f1c" stroke="#2c2724"/>
+<text x="192.6" y="221.5" font-size="12" fill="#fafaf9">css</text>
+<rect x="233.2" y="204" width="94.0" height="26" rx="5" fill="#231f1c" stroke="#2c2724"/>
+<text x="244.2" y="221.5" font-size="12" fill="#fafaf9">javascript</text>
+<rect x="335.2" y="204" width="43.6" height="26" rx="5" fill="#231f1c" stroke="#2c2724"/>
+<text x="346.2" y="221.5" font-size="12" fill="#fafaf9">sql</text>
+<rect x="386.8" y="204" width="58.0" height="26" rx="5" fill="#231f1c" stroke="#2c2724"/>
+<text x="397.8" y="221.5" font-size="12" fill="#fafaf9">mysql</text>
+<rect x="452.8" y="204" width="43.6" height="26" rx="5" fill="#231f1c" stroke="#2c2724"/>
+<text x="463.8" y="221.5" font-size="12" fill="#fafaf9">git</text>
+<rect x="504.4" y="204" width="65.2" height="26" rx="5" fill="#231f1c" stroke="#2c2724"/>
+<text x="515.4" y="221.5" font-size="12" fill="#fafaf9">github</text>
+<text x="64" y="274" font-size="10.5" letter-spacing="2.4" fill="#a8a29e">EXPERIÊNCIA</text>
+<line x1="171.3" y1="270" x2="816" y2="270" stroke="#2c2724"/>
+<text x="64" y="300" font-size="13" font-weight="700" fill="#fafaf9">Grupo RAM: Estagiário de Desenvolvimento</text>
+<text x="816" y="300" font-size="11.5" text-anchor="end" fill="#a8a29e">2026 ago - presente</text>
+<text x="64" y="320" font-size="11.5" fill="#a8a29e">suporte técnico, manutenção, instalação de software, atendimento ao usuário</text>
+<text x="64" y="364" font-size="10.5" letter-spacing="2.4" fill="#a8a29e">FORMAÇÃO</text>
+<line x1="145.2" y1="360" x2="816" y2="360" stroke="#2c2724"/>
+<text x="64" y="390" font-size="13" font-weight="700" fill="#fafaf9">CEUB: Engenharia de Software</text>
+<text x="816" y="390" font-size="11.5" text-anchor="end" fill="#a8a29e">2º semestre</text>
+<text x="64" y="410" font-size="11.5" fill="#a8a29e">estruturas de dados, engenharia de requisitos, desenvolvimento web, boas práticas</text>
+</svg>

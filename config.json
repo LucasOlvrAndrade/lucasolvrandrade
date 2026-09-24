@@ -1,0 +1,52 @@
+{
+  "username": "LucasOlvrAndrade",
+  "file": "README.md",
+
+  "name": "lucas andrade",
+  "role": "estagiário de desenvolvimento, web, java, sql",
+
+  "logo": { "box": false, "size": 38 },
+
+  "sections": [
+    {
+      "label": "STACKS",
+      "type": "pills",
+      "items": ["java", "html", "css", "javascript", "sql", "mysql", "git", "github"]
+    },
+    {
+      "label": "EXPERIÊNCIA",
+      "type": "entries",
+      "items": [
+        {
+          "title": "Grupo RAM: Estagiário de Desenvolvimento",
+          "period": "2026 ago - presente",
+          "desc": "suporte técnico, manutenção, instalação de software, atendimento ao usuário"
+        }
+      ]
+    },
+    {
+      "label": "FORMAÇÃO",
+      "type": "entries",
+      "items": [
+        {
+          "title": "CEUB: Engenharia de Software",
+          "period": "2º semestre",
+          "desc": "estruturas de dados, engenharia de requisitos, desenvolvimento web, boas práticas"
+        }
+      ]
+    }
+  ],
+
+  "themes": {
+    "dark": {
+      "bg": "#0c0a09", "surface": "#17140f", "surface2": "#231f1c",
+      "border": "#2c2724", "text": "#fafaf9", "muted": "#a8a29e",
+      "accent": "#fb923c", "accentSubtle": "#3a1e0c"
+    },
+    "light": {
+      "bg": "#f2ede3", "surface": "#fffdf9", "surface2": "#e9e2d4",
+      "border": "#d6cdb9", "text": "#1c1917", "muted": "#6a6058",
+      "accent": "#9a3412", "accentSubtle": "#f6e5d8"
+    }
+  }
+}

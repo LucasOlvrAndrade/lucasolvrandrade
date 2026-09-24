@@ -1,91 +1,24 @@
-#  Lucas Andrade
-  
-Sou estudante de Engenharia de Software com experiência em suporte técnico, apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img alt="lucas andrade, estagiário de desenvolvimento, web, java, sql" src="./banner-light.svg">
+</picture>
 
----
-
-#  Sobre Mim
-
- Estudante de Engenharia de Software  
- Experiência em Suporte Técnico  
- Conhecimento em hardware, sistemas e manutenção  
- Desenvolvedor em constante evolução
-
-Tenho interesse em desenvolvimento de software, banco de dados, infraestrutura de TI e tecnologia em geral. Busco constantemente ampliar meus conhecimentos através de estudos, projetos pessoais e experiências práticas.
-
----
-
-#  Linguagens e Ferramentas
-
-<div align="center">
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="70"/>
-
-</div>
-
----
-
-#  Projeto em destaque
+## Projeto em destaque
 
 **[Sistema de barbearia](https://github.com/LucasOlvrAndrade/sistema-barbearia)**, site de agendamento com escolha de barbeiro e painel de gestão para a barbearia: agenda, faturamento, comissões, clientes e folgas.
 Veja funcionando: [barbearia.lucas-andrade.dev](https://barbearia.lucas-andrade.dev)
 
----
+## Objetivo
 
-#  Redes Sociais
+Evoluir profissionalmente na área de tecnologia, ampliar conhecimentos em desenvolvimento de software e banco de dados, além de construir soluções eficientes que gerem impacto positivo.
+
+## Redes Sociais
 
 <div align="center">
 
-<a href="https://lucas-andrade.dev">
-
-<img src="badges/portfolio.svg" alt="Portfólio" height="28"/>
-
-</a>
-
-
-<a href="https://linkedin.com/in/lucas-andrade-93b3273b3">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="https://instagram.com/lucxsolvr">
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
-</a>
+<a href="https://lucas-andrade.dev"><img src="badges/portfolio.svg" alt="Portfólio" height="28"/></a>
+<a href="https://linkedin.com/in/lucas-andrade-93b3273b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="28"/></a>
+<a href="https://instagram.com/lucxsolvr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/></a>
 
 </div>
-
----
-
-#  Atualmente Estudando
-
-- Engenharia de Software
-- Banco de Dados (MySQL)
-- Java
-- Desenvolvimento Web
-- Git & GitHub
-- Estruturas de Dados
-- Boas práticas em programação
-
----
-
-#  Experiência
-
-Experiência em suporte técnico com atendimento a usuários, instalação de softwares, manutenção preventiva e corretiva de computadores, resolução de problemas em hardware e suporte a sistemas operacionais.
-
----
-
-#  Objetivo
-
-Evoluir profissionalmente na área de tecnologia, ampliar conhecimentos em desenvolvimento de software e banco de dados, além de construir soluções eficientes que gerem impacto positivo.
