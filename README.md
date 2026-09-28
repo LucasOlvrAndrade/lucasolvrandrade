@@ -18,7 +18,7 @@ Evoluir profissionalmente na área de tecnologia, ampliar conhecimentos em desen
 <div align="center">
 
 <a href="https://lucas-andrade.dev"><img src="badges/portfolio.svg" alt="Portfólio" height="28"/></a>
-<a href="https://linkedin.com/in/lucas-andrade-93b3273b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="28"/></a>
+<a href="https://linkedin.com/in/lucasolvrandrade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="28"/></a>
 <a href="https://instagram.com/lucxsolvr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/></a>
 
 </div>
