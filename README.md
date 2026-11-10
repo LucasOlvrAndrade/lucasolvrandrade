@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
-  <img alt="lucas andrade, estagiário de desenvolvimento, web" src="./banner-light.svg">
+  <source media="(prefers-color-scheme: dark)"  srcset="./banner-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
+  <img alt="lucas andrade, estagiário de desenvolvimento, web" src="./banner-light.svg?v=3">
 </picture>
 
 ## Projeto em destaque
