@@ -11,7 +11,7 @@
     {
       "label": "STACKS",
       "type": "pills",
-      "items": ["html", "css", "javascript", "mysql", "git", "github"]
+      "items": ["html", "css", "javascript", "typescript", "next.js", "mysql", "git", "github"]
     },
     {
       "label": "EXPERIÊNCIA",

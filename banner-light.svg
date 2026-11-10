@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="468" viewBox="0 0 880 468" role="img" aria-labelledby="t d">
 <title id="t">lucas andrade, estagiário de desenvolvimento, web</title>
-<desc id="d">STACKS: html; css; javascript; mysql; git; github | EXPERIÊNCIA: Grupo RAM: Estagiário de Desenvolvimento | FORMAÇÃO: CEUB: Engenharia de Software</desc>
+<desc id="d">STACKS: html; css; javascript; typescript; next.js; mysql; git; github | EXPERIÊNCIA: Grupo RAM: Estagiário de Desenvolvimento | FORMAÇÃO: CEUB: Engenharia de Software</desc>
 <style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace;dominant-baseline:auto}</style>
 <rect x=".5" y=".5" width="879" height="467" rx="14" fill="#f2ede3" stroke="#d6cdb9"/>
 <text x="38.0" y="34" font-size="12.5" fill="#6a6058" xml:space="preserve">LucasOlvrAndrade</text>
@@ -20,12 +20,16 @@
 <text x="133.8" y="221.5" font-size="12" fill="#1c1917">css</text>
 <rect x="174.4" y="204" width="94.0" height="26" rx="5" fill="#e9e2d4" stroke="#d6cdb9"/>
 <text x="185.4" y="221.5" font-size="12" fill="#1c1917">javascript</text>
-<rect x="276.4" y="204" width="58.0" height="26" rx="5" fill="#e9e2d4" stroke="#d6cdb9"/>
-<text x="287.4" y="221.5" font-size="12" fill="#1c1917">mysql</text>
-<rect x="342.4" y="204" width="43.6" height="26" rx="5" fill="#e9e2d4" stroke="#d6cdb9"/>
-<text x="353.4" y="221.5" font-size="12" fill="#1c1917">git</text>
-<rect x="394.0" y="204" width="65.2" height="26" rx="5" fill="#e9e2d4" stroke="#d6cdb9"/>
-<text x="405.0" y="221.5" font-size="12" fill="#1c1917">github</text>
+<rect x="276.4" y="204" width="94.0" height="26" rx="5" fill="#e9e2d4" stroke="#d6cdb9"/>
+<text x="287.4" y="221.5" font-size="12" fill="#1c1917">typescript</text>
+<rect x="378.4" y="204" width="72.4" height="26" rx="5" fill="#e9e2d4" stroke="#d6cdb9"/>
+<text x="389.4" y="221.5" font-size="12" fill="#1c1917">next.js</text>
+<rect x="458.8" y="204" width="58.0" height="26" rx="5" fill="#e9e2d4" stroke="#d6cdb9"/>
+<text x="469.8" y="221.5" font-size="12" fill="#1c1917">mysql</text>
+<rect x="524.8" y="204" width="43.6" height="26" rx="5" fill="#e9e2d4" stroke="#d6cdb9"/>
+<text x="535.8" y="221.5" font-size="12" fill="#1c1917">git</text>
+<rect x="576.4" y="204" width="65.2" height="26" rx="5" fill="#e9e2d4" stroke="#d6cdb9"/>
+<text x="587.4" y="221.5" font-size="12" fill="#1c1917">github</text>
 <text x="64" y="274" font-size="10.5" letter-spacing="2.4" fill="#6a6058">EXPERIÊNCIA</text>
 <line x1="171.3" y1="270" x2="816" y2="270" stroke="#d6cdb9"/>
 <text x="64" y="300" font-size="13" font-weight="700" fill="#1c1917">Grupo RAM: Estagiário de Desenvolvimento</text>
