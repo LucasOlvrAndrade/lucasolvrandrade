@@ -3,7 +3,7 @@
   "file": "README.md",
 
   "name": "lucas andrade",
-  "role": "estagiário de desenvolvimento, web, java, sql",
+  "role": "estagiário de desenvolvimento, web",
 
   "logo": { "box": false, "size": 38 },
 
@@ -11,7 +11,7 @@
     {
       "label": "STACKS",
       "type": "pills",
-      "items": ["java", "html", "css", "javascript", "sql", "mysql", "git", "github"]
+      "items": ["html", "css", "javascript", "mysql", "git", "github"]
     },
     {
       "label": "EXPERIÊNCIA",
